@@ -1,5 +1,5 @@
-// Device.js
-// (c) 2015 Asif Hussain Ansari
+// devicedetect.js
+// (c) 2018 Asif Hussain Ansari
 
 
 (function() {
