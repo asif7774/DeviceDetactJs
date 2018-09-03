@@ -1,1 +1,1 @@
-# DeviceDetactJs
+# DeviceDetectJs
