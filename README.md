@@ -1,6 +1,6 @@
 ##  DeviceDetectJs
 
-Live demo [here.](https://cdn.rawgit.com/asif7774/DeviceDetectJs/1ad4d5ee/index.html)
+Live demo [here.](http://asif7774.github.io/DeviceDetectJs/)
 
 ## License
 You're free to use the DeviceDetectJs in a template/theme intended for sale on marketplaces like Themeforest.
