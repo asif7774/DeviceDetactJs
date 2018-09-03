@@ -1,7 +1,5 @@
 ##  DeviceDetectJs
 
-Simple Line Icons is a complete set of icons for use in web design and apps, consisting of 180+ pixel-perfect, hand-crafted icons that draw inspiration from Apple iOS - available to the public, 100% FREE! You may use or distribute it for any purpose, whether personal or commercial. This icon set is a must have tool for web designers and developers.
-
 Live demo [here.](https://cdn.rawgit.com/asif7774/DeviceDetectJs/1ad4d5ee/index.html)
 
 ## License
